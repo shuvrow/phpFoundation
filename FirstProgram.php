@@ -3,7 +3,8 @@ $name="Shuvrow";
 for($i=1; $i<5; $i++)
 {
 	
-echo $name . "<br/>";
+echo $name ;
+echo  "<br/>";
 
 }
 ?>
